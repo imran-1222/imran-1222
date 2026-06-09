@@ -1,17 +1,27 @@
 # 👋 Hi, I'm Imran Hussain S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications+🚀" alt="Typing SVG" />
+<div align="center">
 
-🎓 B.Tech – Artificial Intelligence & Data Science
-💻 Python HMI Developer | AI & ML Enthusiast
-📍 Tamil Nadu, India
-🧠 Passionate about AI, Computer Vision, NLP & Generative AI
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications+🚀" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+🎓 **B.Tech – Artificial Intelligence & Data Science**
+💻 **Python HMI Developer | AI & ML Enthusiast**
+📍 **Tamil Nadu, India**
+🧠 **Passionate about AI, Computer Vision, NLP & Generative AI**
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-* 🔭 Currently working as a **Python HMI Developer** at Barani Hydraulics
+* 🔭 Currently working as a **Python HMI Developer** at **Barani Hydraulics**
 * 🤖 Interested in **LLMs, RAG Systems, Computer Vision & Deep Learning**
 * 🌱 Currently learning **Cloud Computing & Advanced AI Systems**
 * 💡 Love building real-world AI applications using Python
@@ -21,46 +31,115 @@
 
 # 🔧 Tech Stack & Tools
 
-## 👨‍💻 Languages
+<div align="center">
 
-* Python
-* SQL
-* HTML/CSS
-* JavaScript
+<table>
+<tr>
+<td align="center" width="140">
 
-## 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><br> <b>Python</b>
 
-* TensorFlow
-* PyTorch
-* Hugging Face
-* Transformers
-* OpenCV
-* YOLOv8
-* BERT
-* Stable Diffusion
-* SAM (Segment Anything Model)
+</td>
 
-## 🧠 AI Concepts
+<td align="center" width="140">
 
-* Machine Learning
-* Deep Learning
-* NLP
-* LLMs
-* RAG Systems
-* Computer Vision
-* Image Processing
-* Generative AI
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><br> <b>SQL / MySQL</b>
 
-## 🗄️ Databases & Tools
+</td>
 
-* MySQL
-* MongoDB
-* FAISS
-* Streamlit
-* Ollama
-* Pandas
-* NumPy
-* Git & GitHub
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=html,css" width="55"/><br><br> <b>HTML/CSS</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" width="55"/><br><br> <b>TensorFlow & PyTorch</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/><br><br> <b>OpenCV</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55"/><br><br> <b>Hugging Face</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="55"/><br><br> <b>YOLOv8</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn.simpleicons.org/pytorch" width="55"/><br><br> <b>BERT</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><br> <b>MongoDB</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="55"/><br><br> <b>Streamlit</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://ollama.com/public/ollama.png" width="55"/><br><br> <b>Ollama</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=git,github" width="55"/><br><br> <b>Git & GitHub</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="55"/><br><br> <b>LLMs & RAG</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn-icons-png.flaticon.com/512/3659/3659899.png" width="55"/><br><br> <b>Computer Vision</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png" width="55"/><br><br> <b>Generative AI</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="55"/><br><br> <b>Deep Learning</b>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -68,7 +147,7 @@
 
 ## 🏢 Python HMI Developer — Barani Hydraulics, Coimbatore
 
-📅 2025 – Present
+📅 **2025 – Present**
 
 * Developing and maintaining Human-Machine Interface (HMI) applications for industrial systems
 * Building real-time monitoring and automation solutions using Python
@@ -81,7 +160,7 @@
 
 ## 🚦 Real-Time Traffic Density Analyzer
 
-**YOLOv8 | OpenCV | Python**
+### `YOLOv8 | OpenCV | Python`
 
 * Developed an AI-powered real-time traffic density analysis system using YOLOv8
 * Detects, tracks, and counts vehicles from live traffic video streams
@@ -93,7 +172,7 @@
 
 ## 🤖 Agentic RAG Chatbot
 
-**Python | FAISS | Streamlit | HuggingFace | Ollama | MCP**
+### `Python | FAISS | Streamlit | HuggingFace | Ollama | MCP`
 
 * Developed a multi-format RAG chatbot supporting PDF, DOCX, PPTX & CSV files
 * Implemented vector search using FAISS for intelligent retrieval
@@ -104,7 +183,7 @@
 
 ## 🧠 Mental Health Sentiment Analyzer
 
-**BERT | PyTorch | Transformers**
+### `BERT | PyTorch | Transformers`
 
 * Fine-tuned BERT model for sentiment classification
 * Analyzed mental health-related social media content
@@ -115,7 +194,7 @@
 
 ## 🔊 UrbanSound8K Audio Classification
 
-**CNN | LSTM | ResNet | TensorFlow | PyTorch**
+### `CNN | LSTM | ResNet | TensorFlow | PyTorch`
 
 * Built deep learning models for environmental sound classification
 * Used MFCC feature extraction techniques
@@ -126,7 +205,7 @@
 
 ## 🎟️ Movie Ticket Management System
 
-**SQL | Database Management**
+### `SQL | Database Management`
 
 * Developed a SQL-based movie ticket booking system
 * Implemented secure authentication and booking workflows
@@ -137,11 +216,11 @@
 
 # 🏆 Activities & Achievements
 
-🏅 Participant — IIT Madras MECHANICA
-🏅 Participant — E-MECHQUEST
-🏅 Git & GitHub Workshop — Ether Infotech
-🏏 Captain — College Cricket Team
-🎯 Vice President — INTERACT Student Club
+🏅 Participant — **IIT Madras MECHANICA**
+🏅 Participant — **E-MECHQUEST**
+🏅 Git & GitHub Workshop — **Ether Infotech**
+🏏 Captain — **College Cricket Team**
+🎯 Vice President — **INTERACT Student Club**
 
 ---
 
@@ -166,36 +245,64 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/imran-hussain-b072b2292](http://www.linkedin.com/in/imran-hussain-b072b2292)
-* 📧 Email: [imran1222hussain@gmail.com](mailto:imran1222hussain@gmail.com)
-* 🖥️ GitHub: https://github.com/YOUR_USERNAME
-* 💡 LeetCode: https://leetcode.com/YOUR_USERNAME
+<div align="center">
+
+<a href="https://www.linkedin.com/in/imran-hussain-b072b2292">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="mailto:imran1222hussain@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+</div>
 
 ---
 
 # 💬 Quote I Believe In
 
-> “Artificial Intelligence is not replacing humans — it is empowering creators, thinkers, and innovators.”
+<div align="center">
+
+### *“Artificial Intelligence is not replacing humans — it is empowering creators, thinkers, and innovators.”*
+
+</div>
 
 ---
 
 # 🙌 Thanks for Visiting!
 
-If you like my projects, feel free to ⭐ star the repositories and connect with me!
-Let’s build something impactful together 🚀
+<div align="center">
 
-### ✨ — Imran Hussain S
+If you like my projects, feel free to ⭐ star the repositories and connect with me!
+
+## 🚀 Let’s build something impactful together 🚀
+
+## ✨ — Imran Hussain S
+
+</div>
