@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+%26+Computer+Vision" alt="Typing Animation">
 
 </div>
 
@@ -243,28 +243,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -273,7 +251,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/imran-1222">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
@@ -289,7 +267,7 @@
 
 <div align="center">
 
-### *“Artificial Intelligence is not replacing humans — it is empowering creators, thinkers, and innovators.”*
+### *"Artificial Intelligence is not replacing humans — it is empowering creators, thinkers, and innovators."*
 
 </div>
 
@@ -301,7 +279,7 @@
 
 If you like my projects, feel free to ⭐ star the repositories and connect with me!
 
-## 🚀 Let’s build something impactful together 🚀
+## 🚀 Let's build something impactful together 🚀
 
 ## ✨ — Imran Hussain S
 
